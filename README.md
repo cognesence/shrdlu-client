@@ -32,10 +32,7 @@ Contributions are welcome! Please fork the repository and submit pull requests w
 
 ## License
 
-This project is open source and available under the [the Eclipse Public License](https://www.eclipse.org/legal/epl-v10.html) either version 1.0 or (at your option) any later version.
+Copyright © 2017 Simon Lynch
 
-For more information about NetLogo, see the [NetLogo documentation](https://ccl.northwestern.edu/netlogo/docs/).
-
-## Credits
-
-SHRDLU NetLogo model developed by Dr. Simon Lynch.
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
